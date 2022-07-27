@@ -275,6 +275,7 @@ img {
 .list-item-title {
     margin-bottom: 10px;
 
+    font-size: 16px;
     font-weight: var(--primary-weight-font);
     text-align: center;
     line-height: 1.19;
@@ -335,7 +336,7 @@ img {
 }
 
 .social-list-link:hover,
-.socal-list-link:focus {
+.social-list-link:focus {
     background-color: var(--accent-color);
 }
 
@@ -349,7 +350,7 @@ img {
 }
 
 /* Наши клиенты */
-.our-clients-container {
+.our-clients {
     padding-top: 94px;
     padding-bottom: 94px;
 }
@@ -448,6 +449,7 @@ background-color: #2F303A;
     display: block;
     margin-bottom: 20px;
 
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
